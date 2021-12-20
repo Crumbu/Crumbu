@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Crumbu
+- 👀 I’m interested in Cybersecurity and IT
+- 🌱 I’m currently learning anything that is applicable to cybersecurity. At the moment I am looking into firewalls and Honeypots.
+- 💞️ I’m looking to collaborate on anything Cybersecurity related.
+- 📫 Contact me on here
